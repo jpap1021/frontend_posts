@@ -1,0 +1,30 @@
+
+.container_comments{
+    padding: 50px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.comments {
+    border-radius: 5px;
+    border: 1px solid black;
+    width: 400px;
+    height: auto;
+    margin-bottom: 30px;
+    padding: 20px;
+}
+
+.container_title_modal{
+   display: flex;
+   justify-content: space-between;
+}
+
+.container_title_modal .title_modal{
+    margin: 0px;
+}
+
+.textarea{
+    margin-top: 20px;
+    width: 380px;
+}
